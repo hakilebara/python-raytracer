@@ -2,6 +2,8 @@
 
 Based on this livecoding video : https://www.youtube.com/watch?v=yLAU8ECGBXM
 
+![image](./raytrace_20260120_1025.jpg)
+
 ## Usage
 
 ```
